@@ -37,8 +37,3 @@ public class CtoFConverter {
         System.out.println(" ");
     }
 }
-class Fuel_Cost {
-    public static void main(String[] args) {
-        System.out.println("Testing 123...");
-    }
-}
